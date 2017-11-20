@@ -9,6 +9,10 @@ This building block requires a license key. Please contact info@presentations2go
 
 ## Release Notes
 
+### 3000.171120.0
+- support multiple/different repositories for video assignments, case 230196
+- variables like ${user.email} are now supported for configuring the upload user
+
 ### 3000.170530.1
 - New (simple) mashup player for use in exams.
 - Video assignments; only one attempt allowed for the moment.
