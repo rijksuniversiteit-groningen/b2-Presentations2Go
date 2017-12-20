@@ -9,6 +9,13 @@ This building block requires a license key. Please contact info@presentations2go
 
 ## Release Notes
 
+### 3000.171219.1
+- added simple HTML5 video player as a mashup option
+- added simple HTML5 audio player as a mashup option, requires Presentations version 5 or later, case 179369
+- fixed "TEMPORARY scope is unavailable." exception when someone who is not logged in (anymore) tries to view a list of videos
+- fixed "bean playbackUrl not found within scope" exception when creating a text link mashup, case 237751
+- fixed upload attributes defined in the repository not being used in assignments, case 228294
+
 ### 3000.171120.0
 - support multiple/different repositories for video assignments, case 230196
 - variables like ${user.email} are now supported for configuring the upload user
