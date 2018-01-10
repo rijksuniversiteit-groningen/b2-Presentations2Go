@@ -9,6 +9,9 @@ This building block requires a license key. Please contact info@presentations2go
 
 ## Release Notes
 
+### 3000.180109
+- fixed Play button not clickable, case 238607
+
 ### 3000.171219.1
 - added simple HTML5 video player as a mashup option
 - added simple HTML5 audio player as a mashup option, requires Presentations version 5 or later, case 179369
