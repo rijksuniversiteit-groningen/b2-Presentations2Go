@@ -9,6 +9,13 @@ This building block requires a license key. Please contact info@presentations2go
 
 ## Release Notes
 
+### BETA 3400.181011.0
+- Permission fixes for Blackboard 2018Q2/Q4
+- Fix garbled folder name in upload config
+- Make support email configurable
+- Fix simple player mashup
+- Small bugfixes
+
 ### 3000.180109
 - fixed Play button not clickable, case 238607
 
